@@ -120,7 +120,7 @@ The generated vpc_id was reused in later steps.
 This avoided multiple VPC creations during testing.
 
 ___________________________
-
+___________________________
 
 ## 🔵 Part B — IAM Audit and Remediation (boto3)
 🧠 Objective
@@ -182,7 +182,11 @@ Attached:
 <img width="458" height="123" alt="Screenshot 2026-02-11 195738" src="https://github.com/user-attachments/assets/b224e332-51ae-4ebd-a5b8-b6778f5c7df8" />
 
 
-💡 Learning Outcomes
+
+______
+_____
+
+## 💡 Learning Outcomes
 
 Automated AWS networking using Python.
 
@@ -192,6 +196,7 @@ Built DevOps-style remediation automation.
 
 Used tagging and structured naming conventions.
 
+________________
 
-Author : Suyash Dahitule
+## Author : Suyash Dahitule
 
