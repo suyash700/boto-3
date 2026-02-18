@@ -86,8 +86,10 @@ Enable internet access to resources inside the VPC.
 
 <img width="1910" height="918" alt="Screenshot 2026-02-11 193545" src="https://github.com/user-attachments/assets/7713774b-4d90-4adc-9e65-d29c544b2063" />
 
+--------
+----------
 
-🏅 Step 4 — Configure Route Table
+## 🏅 Step 4 — Configure Route Table
 
 Created a route table and added route:
 
@@ -145,6 +147,9 @@ Inline policies containing "Action": "*".
 
 <img width="1919" height="917" alt="Screenshot 2026-02-11 194032" src="https://github.com/user-attachments/assets/7e912da9-5cb7-4ec5-a09a-b5e501671e42" />
 
+-----------------
+-----------------
+
 ## 🥈 Step 2 — Create LimitedAccessPolicy
 
 Created a custom managed policy allowing:
@@ -161,6 +166,8 @@ S3 ReadOnly access
 
 <img width="1916" height="960" alt="Screenshot 2026-02-11 193859" src="https://github.com/user-attachments/assets/9e74a872-2cde-4608-83ee-31eaeebfec04" />
 
+---------------
+---------------
 
 ## 🥉 Step 3 — Detach Dangerous Policies
 
@@ -172,6 +179,8 @@ Automatically detached:
 
 <img width="504" height="191" alt="Screenshot 2026-02-11 194116" src="https://github.com/user-attachments/assets/8f08025b-aa1c-4006-bd7e-78ab924810fa" />
 
+-------------
+-------------
 
 ## 🏅 Step 4 — Attach Safe Mode Policy
 
